@@ -5,6 +5,6 @@
 
 */
 
-.tws_component .twsLogo{
-  height:100px;
+.tws_component{
+  background: red;
 }
